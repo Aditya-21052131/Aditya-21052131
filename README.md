@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Node.js**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13XvcgvY2sUpdRmCn_5PXZKlKU_bv2-TC/view?usp=sharing](https://drive.google.com/file/d/13XvcgvY2sUpdRmCn_5PXZKlKU_bv2-TC/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am very much friendly with stranger and try to make them good friends**
 
 ### Blogs posts
