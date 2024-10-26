@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/na" target="blank"><img src="https://img.shields.io/twitter/follow/na?logo=twitter&style=for-the-badge" alt="na" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/adityakr-123/home?authuser=1](https://sites.google.com/view/adityakr-123/home?authuser=1)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/adityakr-123](https://sites.google.com/view/adityakr-123)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Node.js**
 
