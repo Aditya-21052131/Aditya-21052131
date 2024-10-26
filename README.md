@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b58a22d3-da52-490c-999f-c769ba0a2823)
+
 
 <h2 align="center">Hi 👋, I'm Aditya Kumar</h2>
 <h3 align="center">Dedicated tech enthusiast with a proven ability to turn concepts into cutting-edge digital products. I am seeking a challenging role to leverage my problem-solving skills and passion for innovation. Adept at collaborating in fast-paced environments and delivering exceptional results.</h3>
